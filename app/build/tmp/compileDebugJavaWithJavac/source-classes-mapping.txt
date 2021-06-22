@@ -1,0 +1,7 @@
+com/example/filter2/activititwo.java
+ com.example.filter2.activititwo
+com/example/filter2/MainActivity.java
+ com.example.filter2.MainActivity
+ com.example.filter2.MainActivity$1
+com/example/filter2/BuildConfig.java
+ com.example.filter2.BuildConfig
